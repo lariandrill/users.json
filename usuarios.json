@@ -1,0 +1,7 @@
+{
+  "listaUsuarios" : [
+    { "nome": "Eduardo" },
+    { "nome": "José" },
+    { "nome": "Ribeiro" },
+    {"nome": "Soares"}
+  ]}
